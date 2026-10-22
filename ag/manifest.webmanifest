@@ -1,0 +1,19 @@
+{
+  "name": "Cá Ngựa 3D",
+  "short_name": "Cá Ngựa 3D",
+  "description": "Cờ cá ngựa 3D — chế độ Truyền thống & Nâng cao (12 kỹ năng)",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#12080a",
+  "theme_color": "#12080a",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "icon_red.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
